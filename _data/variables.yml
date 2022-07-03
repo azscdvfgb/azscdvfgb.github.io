@@ -19,6 +19,7 @@ default:
     mode: normal
     type: webpage
     article_header:
+      type: overlay
       align: left
       theme: light
       background_image: https://s1.ax1x.com/2022/05/03/OkCLV0.png
