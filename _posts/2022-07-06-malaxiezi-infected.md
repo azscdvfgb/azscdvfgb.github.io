@@ -1,6 +1,6 @@
 ---
 title: 关于我被麻辣蝎子传染这件事
-tags：日常,麻辣蝎子
+tags：日常
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1898639008&auto=1&height=66"></iframe>
